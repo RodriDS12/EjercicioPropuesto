@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\bin\Release\WindowsFormsApp1a.exe.config
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\bin\Release\WindowsFormsApp1a.exe
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\bin\Release\WindowsFormsApp1a.pdb
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.Form1.resources
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.Properties.Resources.resources
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.exe
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.pdb
+C:\Users\Alumno\source\repos\WindowsFormsApp1a\WindowsFormsApp1a\obj\Release\WindowsFormsApp1a.Inicio.resources
